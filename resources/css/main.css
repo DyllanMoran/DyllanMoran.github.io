@@ -1,0 +1,34 @@
+body {
+    background: snow;
+    color: black;
+    font-family: tahoma;
+    padding: 50px;
+  }
+  
+  header {
+    font-family: 'Brush Script MT';
+  }
+  
+  nav {
+    font-family: 'Garamond';
+  }
+  
+  .hover-color:hover {
+    color: darkred;
+  }
+  
+  footer {
+    font-family: 'Impact';
+  }
+  
+  ul.horizontal-list {
+    padding: 0px;
+  }
+  ul.horizontal-list li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .headshot {
+    width: 50%;
+  }
